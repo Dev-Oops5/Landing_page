@@ -43,6 +43,14 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+nav1{
+  margin: 0;
+  border: 0;
+  outline: 0;
+  padding: 5px;
+  align-items: center;
+}
+
 /* clear fix */
 .grid:after {
   content: '';
